@@ -18,8 +18,6 @@ if (n === 0){
   }
 }
 
-
-
 function doWhileLoop(num) {
   var i = 1;
   do{

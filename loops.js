@@ -18,7 +18,7 @@ if (n === 0){
   }
 }
 
-var i = 0;
+
 
 function doWhileLoop(num) {
   var i = 1;

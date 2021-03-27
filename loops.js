@@ -18,13 +18,11 @@ if (n === 0){
   }
 }
 
-function incrementVariable(){
-  num = num + 1;
-  return num
-}
+var i = 0;
 
-function doWhileLoop(num){
-  incrementVariable()
-do {console.log("I run once regardless.")
-} while incrementVariable() <10)
+function doWhileLoop(num) {
+  var i = 1;
+  do{
+    console.log("I run once regardless.");
+  }while(i++ < num);
 }

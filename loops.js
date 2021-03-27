@@ -17,3 +17,11 @@ if (n === 0){
 }
   }
 }
+
+function doWhileLoop(num){
+  function incrementVariable(){
+    num = num + 1;
+    return num
+  }
+  
+}

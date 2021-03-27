@@ -23,5 +23,5 @@ function doWhileLoop(num){
     num = num + 1;
     return num
   }
-  
+
 }
